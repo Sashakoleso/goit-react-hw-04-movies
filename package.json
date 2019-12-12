@@ -2,7 +2,7 @@
   "name": "react_bootcamp_15",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sashakoleso.github.io/react-routers/",
+  "homepage": "https://sashakoleso.github.io/goit-react-hw-04-movies/",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.1.1",
