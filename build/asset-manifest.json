@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react-routers/static/js/main.25106cda.chunk.js",
+    "main.js.map": "/react-routers/static/js/main.25106cda.chunk.js.map",
+    "runtime-main.js": "/react-routers/static/js/runtime-main.299a4400.js",
+    "runtime-main.js.map": "/react-routers/static/js/runtime-main.299a4400.js.map",
+    "static/js/2.17cc5efc.chunk.js": "/react-routers/static/js/2.17cc5efc.chunk.js",
+    "static/js/2.17cc5efc.chunk.js.map": "/react-routers/static/js/2.17cc5efc.chunk.js.map",
+    "index.html": "/react-routers/index.html",
+    "precache-manifest.36a06fc76a3a328a1aee32274b538bcd.js": "/react-routers/precache-manifest.36a06fc76a3a328a1aee32274b538bcd.js",
+    "service-worker.js": "/react-routers/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.299a4400.js",
+    "static/js/2.17cc5efc.chunk.js",
+    "static/js/main.25106cda.chunk.js"
+  ]
+}
